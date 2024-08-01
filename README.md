@@ -1,3 +1,6 @@
+# Y fork ?
+Some of the MemoryBuffer methods are insta-UB if you use them so I'd like to fix them in this fork. I'd also like to add doc comments where they previously weren't and perhaps other alterations
+
 # Inkwell(s)
 
 [![Crates.io](https://img.shields.io/crates/v/inkwell.svg?style=plastic)](https://crates.io/crates/inkwell)
